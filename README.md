@@ -20,6 +20,6 @@ npm start
 Tecnologias Utilizadas
 ================
 
-Frontend: O React foi utilizado para construir a interface do usuário, proporcionando uma experiência interativa e responsiva.
-Backend: O Node.js foi escolhido para o backend devido à sua capacidade de lidar com operações assíncronas de forma eficiente.
+Frontend: O React foi utilizado para construir a interface do usuário, proporcionando uma experiência interativa e responsiva.<br>
+Backend: O Node.js foi escolhido para o backend devido à sua capacidade de lidar com operações assíncronas de forma eficiente.<br>
 Banco de Dados: O MySQL foi utilizado para armazenar e gerenciar os dados, garantindo a integridade e a consistência das informações.
